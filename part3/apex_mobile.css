@@ -1,0 +1,26 @@
+/**
+ * APEX_MOBILE.CSS
+ * 
+ * CSS for mobile Oracle APEX apps
+ * @version: 0.1
+ */
+ 
+/*
+ * center page title
+ */
+.t-Header-logo {
+    text-align: center;
+}
+
+/*
+ * remove white space around region
+ */
+.t-Body-contentInner { 
+    padding: 0; 
+}
+/*
+ * set color of heart icon to red ;)
+ */
+.fa.fa-heart {
+    color: red;
+}
